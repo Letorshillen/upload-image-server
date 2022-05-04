@@ -4,3 +4,5 @@
 /node_modules
 
 my_uploaded_files/*
+
+!my_uploaded_file/.gitkeep 
